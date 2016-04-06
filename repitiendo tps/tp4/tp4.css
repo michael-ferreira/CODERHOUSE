@@ -1,0 +1,200 @@
+body{
+	margin: 0px;
+}
+
+
+nav div{
+	float: left;
+	margin-left:180pt;
+	}
+
+nav ul{
+	margin: 0pt;
+	padding-right: 180pt;
+}
+nav li{
+	    display: inline-block;
+	    float: right;
+	    margin-right: 4pt;
+	  }
+li{
+	list-style: none;
+}
+
+
+#imagen { 
+	clear: left;
+ 	 background-image: url(https://raw.githubusercontent.com/CoderHouse/fundamentos/master/03-CSS/CODE/assets/indexbanner-bg3.jpg) ;
+ 	 height:400pt;
+	 background-position: center;
+	 color: white;
+	}
+	
+.texto{
+ 	padding-top: 200pt;
+ 	padding-left:300pt;
+ }
+ .grande{
+ 	font-size: 20pt;
+ }
+ 
+
+#cuadrotexto{
+	text-align: center;
+ 	margin-top: -5pt;
+ 	}
+
+ .vertical{
+ 	display: inline-block;
+ 	margin-left: 40pt;
+ 	margin-right: 40pt;
+ 	clear: right;
+ }
+
+.izq{
+ 	margin-left: 180pt;
+  }
+
+.tex{
+	text-align: center;
+	margin-top:10pt;
+
+}
+#izq{
+	float: left;
+	margin-left: 150pt;
+	}
+
+/*#ready{
+	float: left;
+	margin: 0pt;
+}
+
+#derechas{
+	float: right;
+	margin: 0pt;*/
+
+
+#cel{
+	float: left;
+	margin-left: 20pt;
+	margin-bottom: -40pt;
+
+}
+
+#dere{
+	float:right; ;
+	margin-right: 180pt;
+}
+
+.puntos{
+	clear: left;
+	margin-left: 500pt;
+	margin-top: 60pt;
+}
+
+#dos { 
+	clear: left;
+ 	 background-image: url(https://raw.githubusercontent.com/CoderHouse/fundamentos/master/03-CSS/CODE/assets/pricing-bg.jpg);
+ 	 /*background-position:100pt 0pt;*/
+ 	 margin:0pt;
+  	}
+
+ .precios{
+ 	border:solid  1px #dadcde;
+ 	background-color: white;
+ }
+
+ /*a continuacion class para box*/
+
+li ul li {
+	text-align: center;
+}
+
+ .uno{
+ 	margin-top: 10pt;
+  	margin-right:5pt; 
+  	margin-bottom: 10pt;
+  	margin-left: 0pt;
+ }
+
+ .dos{
+ 	font-size: 20pt;
+ 	margin-bottom: 10pt;
+ 	text-align: center;
+ }
+
+ .tres{
+ 	text-align: left;
+ 	margin-bottom: 5pt;
+ 	margin-left: 10pt;
+  }
+
+  .siete{
+  	text-align: center;
+ 	color: white;
+ 	background-color:#47b2d9;
+ 	margin-bottom: 20pt;
+ }
+ li span{
+ 	text-align: right;
+ 	color:#47b2d9;
+ 	margin-left: 8pt;
+ 	margin-right: 0pt;
+ }
+
+#secciontres{
+	margin: 0pt;
+}
+
+#blue{
+	background-color: #014479;
+	margin: 0pt;
+	text-align: center;
+	height: 80pt;
+	padding-top: 40pt;
+	margin-bottom: 0pt;
+	color: white;
+}
+
+ span{
+	color:#47b2d9;
+}	
+ 
+footer li{
+	display: inline-block;
+	float: right;
+	margin-top: 0pt;
+	margin-right: 4pt;
+	padding-top: 20pt;
+	}
+
+footer ul{
+	margin: 0pt;
+	padding-right: 180pt;
+
+}
+
+footer{
+	height: 40pt;
+	background-color: #161616;
+	margin: 0pt;
+	color: white;
+}
+
+footer p{
+	float: left;
+	margin-top: 0pt;
+	margin-right: 0pt;
+	margin-bottom: 0pt; 
+	padding-top: 20pt; 
+	padding-left: 180pt;
+}
+
+.reletext{
+	font-family: "Releway"
+}
+
+.roco{
+	font-family: "Open Sans"
+}

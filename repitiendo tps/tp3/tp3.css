@@ -1,0 +1,34 @@
+
+#vertical{
+	display: inline-block
+}
+
+#imagen { 
+ 	 background-image: url(https://raw.githubusercontent.com/CoderHouse/fundamentos/master/03-CSS/CODE/assets/indexbanner-bg3.jpg);
+ 	 height:400pt;
+	 background-position: center;
+}
+	
+ #color3{
+ 	background-color: #2096ba;
+ }
+
+ #color4{
+ 	background-color:#002957;
+ }
+ 
+ #margin{
+ 	border:50px;
+ }
+span{
+	color: blue;
+}	
+.texto{
+	font-family: Relaway;
+}
+
+.texto2{
+	font-family: Opens Sans;
+}
+ 
+ 
